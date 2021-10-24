@@ -1,0 +1,13 @@
+GET https://127.0.0.1:8000/api/post/6
+
+###
+
+POST https://127.0.0.1:8000/api/post/create
+content-type: application/json
+
+{
+	"title": "post title from hardcoded data in Rest API VScode",
+	"content": "lorem dsadsafad",
+	"slug": "slug-from-rest-client",
+	"comment": "comment from rest client"
+}
