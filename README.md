@@ -37,7 +37,6 @@
 #### Backend (<---WORK IN PROGRESS--->)
 
 - [composer.json (explore libraries used in project, nodemon configuration)](https://github.com/awiaderny/vue-symfony-blog-pub/blob/main/composer.json)
-- [server.js - main entry file for Node (express) Backend](https://github.com/awiaderny/ecommerce-public/blob/master/server.js)
 - [Symfony Controller - Sending test email via newsletter form](https://github.com/awiaderny/vue-symfony-blog-pub/blob/main/src/Controller/NewsletterController.php)
 - [Symfony Controller - Fetching single or all blog posts and creating post](https://github.com/awiaderny/vue-symfony-blog-pub/blob/main/src/Controller/PostController.php)
 - [(<---WORK IN PROGRESS--->) - Symfony Controller - Login/Register](https://github.com/awiaderny/vue-symfony-blog-pub/blob/main/src/Controller/PostController.php)
